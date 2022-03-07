@@ -1,0 +1,28 @@
+/* .frame {
+    padding: 5em;
+    margin: 100px 500px 200px 100px;
+    border: 15px solid black;
+    top: 100;
+    left: 200;
+}
+
+/* .line {
+    padding: 5em;
+    /* margin: 10px 50px 20px 10px; */
+    /* border: 2px solid blue;
+} */
+
+table {
+    margin: 50px auto;
+    background: white;
+    border: 20px solid gray;
+}
+
+td {
+    width: 75px;
+    height: 75px;
+}
+
+.table--black {
+    background: black;
+}
